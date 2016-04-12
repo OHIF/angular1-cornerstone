@@ -10,4 +10,4 @@ Run
 ````
 put file URL for your path to index.html in Firefox, for example:
 
-file:///C:/workspace/OHIF/angular1-cornerstone/app/index.html
+file://C:/workspace/OHIF/angular1-cornerstone/app/index.html
