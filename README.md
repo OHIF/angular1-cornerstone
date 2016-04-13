@@ -3,7 +3,7 @@ Simple Cornerstone directive example with Angular1
 
 Install
 ````
-bower install
+npm install
 ````
 
 Run
